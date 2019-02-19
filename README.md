@@ -1,3 +1,8 @@
+
+# Material Showcase View 
+Modified with a button to skip all sequence steps
+
+Credit to this library creator (@deano2390) .
 *Looking for collaborators to help maintain this library, drop me a line at me@deanwild.co.uk if you want to help.*
 
 # MaterialShowcaseView
